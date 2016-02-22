@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 12fffff
 fhhhggg
 adfsghadslkgasdlkgnashdklgklasdg
 1233333
-235325ojdspgsjdalkgjlk;ejnkl
-=======
-dsfglmksdaklj
-]sdagdlskajhgkldshngsad
-fgsdaklghdsalkg
-asdlkfgalksd
-jjhgggg
->>>>>>> linetwo
+235325ojdspgsjdasdgad
